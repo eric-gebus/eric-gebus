@@ -65,8 +65,6 @@ Your real-time travel companion, helping you instantly discover local events, re
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 <div style="display: flex; justify-content: center;">
-  <img src="/public/images/pinpoint.png?raw=true" width="300" alt="Main View" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/public/images/pin_view.png?raw=true" width="300" alt="Pin View" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/public/images/fav_list.png?raw=true" width="300" alt="Favorites List" />
