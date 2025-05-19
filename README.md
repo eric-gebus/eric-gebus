@@ -1,7 +1,7 @@
 # Hi, I'm Eric 👋
 
 ## 💫 About Me:
-I am a versatile and driven professional with a hybrid background in software engineering, QA management, and project leadership across the video game, film, and cultural sectors. Experienced in building full-stack applications, leading cross-functional teams, and delivering high-quality digital products.
+I am a creative and driven professional with a hybrid background in software engineering, QA management, and project leadership across the video game, film, and cultural sectors. Experienced in building full-stack applications, leading cross-functional teams, and delivering high-quality digital products.
 
 I'm currently working on apps to make your life easier and more whimsical ✨ <br><br>
 
